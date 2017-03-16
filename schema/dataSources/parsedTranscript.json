@@ -1,0 +1,65 @@
+{
+	"$schema": "http://json-schema.org/schema#",
+	"title": "Parsed transcripts",
+	"description": "This schema validates a parsed debate transcript.",
+
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "The unique identifier for this debate.",
+			"type": "string"
+		},
+		"indexAfterIntro": {
+			"description": "The index of the first event after the moderator's introductions. Generally the start of the first question.",
+			"type": "number"
+		},
+		"events": {
+			"type": "array",
+			"description": "The sequence of events (utterances and non-utterances) in a debate.",
+			"items": {
+				"type": "object",
+				"oneOf": [
+					{
+						"properties": {
+							"eventType": {
+								"description": "For non-utterances, the type of event.",
+								"type": "string",
+								"enum": ["applause", "laughter", "crosstalk", "other"]
+							},
+							"text": {
+								"description": "For non-utterances, the literal string of the event is stored here.",
+								"type": "string"
+							}
+						},
+						"required": ["eventType", "text"]
+					},
+					{
+						"properties": {
+							"eventType": {
+								"description": "For utterances, the value must be utterance. Utterances are generally sentences.",
+								"type": "string",
+								"enum": ["utterance"]
+							},
+							"speaker": {
+								"description": "The unique identifier for the speaker.",
+								"type": "string"
+							},
+							"text": {
+								"description": "The raw text of the utterance.",
+								"type": "string"
+							},
+							"tokens": {
+								"description": "The tokenized text as a list.",
+								"type": "array",
+								"items": {
+									"type": "string"
+								}
+							}
+						},
+						"required": ["eventType", "speaker", "text", "tokens"]
+					}
+				]
+			}
+		}
+	}
+}

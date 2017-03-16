@@ -1,0 +1,65 @@
+{
+	"$schema": "http://json-schema.org/schema#",
+	"title": "Debate",
+	"description": "Contains primary metadata for a debate. Other debate data sources (e.g. raw and parsed transcripts) are stored separately.", 
+	"type": "object",
+	
+	"properties": {
+		"id": {
+			"description": "The unique identifier for this debate. Extracted from the UCSB URL.",
+			"type": "string"
+		},
+		"date": {
+			"type": "string",
+			"format": "date-time"
+		},
+		"transcriptUrl": {
+			"description": "The UCSB URL for the transcript of this debate.",
+			"type": "string",
+			"format": "uri"
+		},
+		"videoUrl": {
+			"description": "The URL for the video of the debate (probably from C-SPAN).",
+			"type": "string",
+			"format": "uri"
+		},
+		"friendlyName": {
+			"description": "The title of the debate, e.g. Democratic Candidates Debate in \"Milwaukee, Wisconsin.\"",
+			"type": "string"
+		},
+		"applauseTranscribed": {
+			"description": "True if applause is in the text transcript.",
+			"type": "boolean"
+		},
+		"moderators": {
+			"type": "array",
+			"description": "A list of ids for the moderators of the debate. Required, but may be empty.",
+			"items": {
+				"title": "personId",
+				"type": "string",
+				"typeRef": "people"
+			},
+			"uniqueItems": true
+		},
+		"participants": {
+			"type": "array",
+			"description": "A list of ids for the participants in the debate. Required and must have length of at least 2.",
+			"items": {
+				"title": "personId",
+				"type": "string",
+				"typeRef": "people"
+			},
+			"minItems": 2,
+			"uniqueItems": true
+		},
+		"electionYear": {
+			"type": "integer",
+			"enum": [2000, 2004, 2008, 2012, 2016]
+		},
+		"party": {
+			"type": "string",
+			"enum": ["D","R"]
+		}
+	},
+	"required": ["id", "date", "transcriptUrl", "friendlyName", "applauseTranscribed", "moderators", "participants", "electionYear", "party"]
+}

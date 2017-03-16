@@ -1,0 +1,49 @@
+{
+	"dataSources": {
+		"transcriptsRaw": {
+			"dir": "debates/rawTranscripts",
+			"dataType": "debates",
+			"single": false,
+			"isJson": false
+		},
+		"transcripts": {
+			"dir": "debates/parsedTranscripts",
+			"dataType": "debates",
+			"single": false,
+			"isJson": true,
+			"schema": "dataSources/parsedTranscript.schema.json"
+		},
+		"debateMetadata": {
+			"dir": "debates/metadata",
+			"dataType": "debates",
+			"single": true,
+			"isJson": true,
+			"schema": "dataSources/debateMetadata.schema.json",
+			"hasIds": true
+		},
+		"peopleMetadata": {
+			"dir": "people/metadata",
+			"dataType": "people",
+			"single": true,
+			"isJson": true,
+			"schema": "dataSources/personMetadata.schema.json",
+			"hasIds": true
+		},
+		"parsingMetadata": {
+			"dir": "debates/parsingMetadata",
+			"dataType": "debates",
+			"single": true,
+			"isJson": true,
+			"schema": "dataSources/debateParsingMetadata.schema.json"
+		},
+		"malletLdaInput": {
+			"dir": "debates/malletLdaInput",
+			"dataType": "debates",
+			"single": true,
+			"isJson": false
+		}
+	},
+	"dataDir": "data/",
+	"schemaDir": "schema/",
+	"schema": "locs.schema.json"
+}

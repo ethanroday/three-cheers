@@ -1,0 +1,622 @@
+{
+    "110903": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76237": {
+        "eventDetector": 4,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111409": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111177": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76913": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105437": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110489": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105435": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "97038": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105443": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76223": {
+        "eventDetector": 0,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111472": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "96914": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76069": {
+        "eventDetector": 2,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "97022": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "97332": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111471": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110909": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76563": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "97978": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 1,
+        "speakerDetector": 0
+    },
+    "112719": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75630": {
+        "eventDetector": 0,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105449": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75796": {
+        "eventDetector": 4,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75680": {
+        "eventDetector": 3,
+        "utteranceIterator": 3,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111394": {
+        "eventDetector": 1,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76041": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75914": {
+        "eventDetector": 0,
+        "utteranceIterator": 3,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111412": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76338": {
+        "eventDetector": 4,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75950": {
+        "eventDetector": 3,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111176": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75140": {
+        "eventDetector": 3,
+        "utteranceIterator": 0,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110908": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111500": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76561": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 1,
+        "speakerDetector": 0
+    },
+    "98929": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "96683": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "98814": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76120": {
+        "eventDetector": 0,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "62265": {
+        "eventDetector": 0,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "96795": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111178": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110906": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111634": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110756": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105439": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76123": {
+        "eventDetector": 0,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75171": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75489": {
+        "eventDetector": 3,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110758": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "74351": {
+        "eventDetector": 0,
+        "utteranceIterator": 0,
+        "speakerIdentifier": 2,
+        "speakerDetector": 0
+    },
+    "99075": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105441": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110757": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "90711": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "90513": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 1,
+        "speakerDetector": 0
+    },
+    "105447": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76224": {
+        "eventDetector": 0,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111711": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "98936": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76562": {
+        "eventDetector": 0,
+        "utteranceIterator": 0,
+        "speakerIdentifier": 1,
+        "speakerDetector": 0
+    },
+    "111413": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75664": {
+        "eventDetector": 0,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76688": {
+        "eventDetector": 4,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111520": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "112718": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "110907": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75089": {
+        "eventDetector": 0,
+        "utteranceIterator": 0,
+        "speakerIdentifier": 2,
+        "speakerDetector": 0
+    },
+    "110910": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "111395": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "98813": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75575": {
+        "eventDetector": 4,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "99556": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "96894": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "29664": {
+        "eventDetector": 2,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76300": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76271": {
+        "eventDetector": 0,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75861": {
+        "eventDetector": 3,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "96659": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "115148": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "97703": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75631": {
+        "eventDetector": 3,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "74348": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75118": {
+        "eventDetector": 0,
+        "utteranceIterator": 0,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "116995": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76339": {
+        "eventDetector": 3,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105438": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "99001": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105445": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+
+
+    "74349": {
+        "eventDetector": 1,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "76122": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 1,
+        "speakerDetector": 0
+    },
+    "105444": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "29427": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "74350": {
+        "eventDetector": 1,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 1,
+        "speakerDetector": 0
+    },
+    "105448": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75090": {
+        "eventDetector": 1,
+        "utteranceIterator": 0,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105440": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105442": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "75913": {
+        "eventDetector": 1,
+        "utteranceIterator": 3,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "109919": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105436": {
+        "eventDetector": 1,
+        "utteranceIterator": 1,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    },
+    "105446": {
+        "eventDetector": 1,
+        "utteranceIterator": 2,
+        "speakerIdentifier": 0,
+        "speakerDetector": 0
+    }
+}

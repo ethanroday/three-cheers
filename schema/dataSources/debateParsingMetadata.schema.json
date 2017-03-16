@@ -1,0 +1,30 @@
+{
+	"$schema": "http://www.json-schema.org/schema#",
+	"title": "Debate parsing metadata",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "The unique identifier for this debate.",
+			"type": "string"
+		},
+		"utteranceIterator": {
+			"decription": "The id for the method used to iterate over the utterance strings in a transcript.",
+			"type": "string"
+		},
+		"eventDetector": {
+			"description": "The id for the method used to detect non-utterance events in a transcript.",
+			"type": "string"
+		},
+		"speakerDetector": {
+			"description": "The id for the method used to detect the speaker string for utterance events in a transcript.",
+			"type": "string"
+		},
+		"speakerIdentifier": {
+			"description": "The id for the method used to detect the participant given a speaker string.",
+			"type": "string"
+		}
+
+	},
+	"required": ["firstUtteranceDetector", "eventDetector", "speakerDetector", "speakerIdentifier"],
+	"additionalProperties": false
+}

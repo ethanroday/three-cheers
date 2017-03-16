@@ -1,0 +1,78 @@
+{
+	"$schema": "http://json-schema.org/schema#",
+	"title": "Person",
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "The unique identifier for this person.",
+			"type": "string"
+		},
+		"firstName": {
+			"type": "string"
+		},
+		"lastName": {
+			"type": "string"
+		},
+		"personType": {
+			"type": "string",
+			"enum": ["candidate","moderator","other"]
+		},
+		"party": {
+			"type": "string",
+			"enum": ["D","R"]
+		},
+		"offices": {
+			"type": "array",
+			"items": {
+				"title": "Office",
+				"description": "An office held by this person, along with a start and end date. An empty end date assumes the person holds the position currently.",
+				"type": "object",
+				"properties": {
+					"officeTitle": {
+						"type": "string",
+						"enum": ["governor","senator","representative","secretaryOfState","other"]
+					},
+					"state": {
+						"type": "string",
+						"enum": ["AL","AK","AZ","AR","CA","CO","CT","DE","DC","FL","GA","HI","ID","IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ",
+							"NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY","AS","GU","MP","PR","VI","FM","MH","PW","AA","AE","AP"]
+					},
+					"startDate": {
+						"type": "string",
+						"format": "date-time"
+					},
+					"endDate": {
+						"type": "string",
+						"format": "date-time"
+					}
+				},
+				"required": ["officeTitle","startDate"],
+				"anyOf" : [
+					{
+						"not": {
+							"properties": {
+								"officeTitle": { "enum": ["governor","senator","representative"]}
+							}
+						}
+					},
+					{
+						"required": ["state"]
+					}
+				]
+			}
+		}
+	},
+	"required": ["id", "firstName", "lastName", "personType"],
+	"anyOf" : [
+		{
+			"not": {
+				"properties": {
+					"personType": { "enum": ["candidate"]}
+				}
+			}
+		},
+		{
+			"required": ["party"]
+		}
+	]
+}

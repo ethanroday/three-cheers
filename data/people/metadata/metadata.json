@@ -1,0 +1,994 @@
+{
+    "4a65622042757368": {
+        "firstName": "Jeb",
+        "id": "4a65622042757368",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Bush"
+    },
+    "42617261636b204f62616d61": {
+        "firstName": "Barack",
+        "id": "42617261636b204f62616d61",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Obama"
+    },
+    "48696c6c61727920436c696e746f6e": {
+        "firstName": "Hillary",
+        "id": "48696c6c61727920436c696e746f6e",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Clinton"
+    },
+    "4368726973204368726973746965": {
+        "firstName": "Chris",
+        "id": "4368726973204368726973746965",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Christie"
+    },
+    "4361726c2043616d65726f6e": {
+        "firstName": "Carl",
+        "id": "4361726c2043616d65726f6e",
+        "personType": "moderator",
+        "lastName": "Cameron"
+    },
+    "5061756c2054617368": {
+        "firstName": "Paul",
+        "id": "5061756c2054617368",
+        "personType": "moderator",
+        "lastName": "Tash"
+    },
+    "446f796c65204d634d616e7573": {
+        "firstName": "Doyle",
+        "id": "446f796c65204d634d616e7573",
+        "personType": "moderator",
+        "lastName": "McManus"
+    },
+    "4e616e637920436f72646573": {
+        "firstName": "Nancy",
+        "id": "4e616e637920436f72646573",
+        "personType": "moderator",
+        "lastName": "Cordes"
+    },
+    "416c616e204b65796573": {
+        "firstName": "Alan",
+        "id": "416c616e204b65796573",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Keyes"
+    },
+    "53757a616e6e652047656861": {
+        "firstName": "Suzanne",
+        "id": "53757a616e6e652047656861",
+        "personType": "moderator",
+        "lastName": "Geha"
+    },
+    "47656f726765205374657068616e6f706f756c6f73": {
+        "firstName": "George",
+        "id": "47656f726765205374657068616e6f706f756c6f73",
+        "personType": "moderator",
+        "lastName": "Stephanopoulos"
+    },
+    "4461766964205374616e746f6e": {
+        "firstName": "David",
+        "id": "4461766964205374616e746f6e",
+        "personType": "moderator",
+        "lastName": "Stanton"
+    },
+    "467265642054686f6d70736f6e": {
+        "firstName": "Fred",
+        "id": "467265642054686f6d70736f6e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Thompson"
+    },
+    "4d696b652047726176656c": {
+        "firstName": "Mike",
+        "id": "4d696b652047726176656c",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Gravel"
+    },
+    "546f6d2054616e637265646f": {
+        "firstName": "Tom",
+        "id": "546f6d2054616e637265646f",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Tancredo"
+    },
+    "4d696b65204875636b61626565": {
+        "firstName": "Mike",
+        "id": "4d696b65204875636b61626565",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Huckabee"
+    },
+    "4b6174686965204f627261646f76696368": {
+        "firstName": "Kathie",
+        "id": "4b6174686965204f627261646f76696368",
+        "personType": "moderator",
+        "lastName": "Obradovich"
+    },
+    "416c20476f7265": {
+        "firstName": "Al",
+        "id": "416c20476f7265",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Gore"
+    },
+    "4a6f686e204469737461736f": {
+        "firstName": "John",
+        "id": "4a6f686e204469737461736f",
+        "personType": "moderator",
+        "lastName": "Distaso"
+    },
+    "4a696d2056616e6465686569": {
+        "firstName": "Jim",
+        "id": "4a696d2056616e6465686569",
+        "personType": "moderator",
+        "lastName": "Vandehei"
+    },
+    "4a696d2044654d696e74": {
+        "firstName": "Jim",
+        "id": "4a696d2044654d696e74",
+        "personType": "moderator",
+        "lastName": "DeMint"
+    },
+    "4c61727279204b696e67": {
+        "firstName": "Larry",
+        "id": "4c61727279204b696e67",
+        "personType": "moderator",
+        "lastName": "King"
+    },
+    "4875676820486577697474": {
+        "firstName": "Hugh",
+        "id": "4875676820486577697474",
+        "personType": "moderator",
+        "lastName": "Hewitt"
+    },
+    "4265726e69652053616e64657273": {
+        "firstName": "Bernie",
+        "id": "4265726e69652053616e64657273",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Sanders"
+    },
+    "4a6f686e2045647761726473": {
+        "firstName": "John",
+        "id": "4a6f686e2045647761726473",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Edwards"
+    },
+    "5765736c657920436c61726b": {
+        "firstName": "Wesley",
+        "id": "5765736c657920436c61726b",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Clark"
+    },
+    "4d61726961204261727469726f6d6f": {
+        "firstName": "Maria",
+        "id": "4d61726961204261727469726f6d6f",
+        "personType": "moderator",
+        "lastName": "Bartiromo"
+    },
+    "427269742048756d65": {
+        "firstName": "Brit",
+        "id": "427269742048756d65",
+        "personType": "moderator",
+        "lastName": "Hume"
+    },
+    "52756479204769756c69616e69": {
+        "firstName": "Rudy",
+        "id": "52756479204769756c69616e69",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Giuliani"
+    },
+    "43687269732057616c6c616365": {
+        "firstName": "Chris",
+        "id": "43687269732057616c6c616365",
+        "personType": "moderator",
+        "lastName": "Wallace"
+    },
+    "4a6f65204c69656265726d616e": {
+        "firstName": "Joe",
+        "id": "4a6f65204c69656265726d616e",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Lieberman"
+    },
+    "526f626572742053696567656c": {
+        "firstName": "Robert",
+        "id": "526f626572742053696567656c",
+        "personType": "moderator",
+        "lastName": "Siegel"
+    },
+    "4d69747420526f6d6e6579": {
+        "firstName": "Mitt",
+        "id": "4d69747420526f6d6e6579",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Romney"
+    },
+    "576f6c6620426c69747a6572": {
+        "firstName": "Wolf",
+        "id": "576f6c6620426c69747a6572",
+        "personType": "moderator",
+        "lastName": "Blitzer"
+    },
+    "416e646572736f6e20436f6f706572": {
+        "firstName": "Anderson",
+        "id": "416e646572736f6e20436f6f706572",
+        "personType": "moderator",
+        "lastName": "Cooper"
+    },
+    "4a6f686e20526f6265727473": {
+        "firstName": "John",
+        "id": "4a6f686e20526f6265727473",
+        "personType": "moderator",
+        "lastName": "Roberts"
+    },
+    "53636f74742057616c6b6572": {
+        "firstName": "Scott",
+        "id": "53636f74742057616c6b6572",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Walker"
+    },
+    "42696c6c2052696368617264736f6e": {
+        "firstName": "Bill",
+        "id": "42696c6c2052696368617264736f6e",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Richardson"
+    },
+    "4a6f686e20426163686d616e": {
+        "firstName": "John",
+        "id": "4a6f686e20426163686d616e",
+        "personType": "moderator",
+        "lastName": "Bachman"
+    },
+    "4361726f6c796e20576173686275726e": {
+        "firstName": "Carolyn",
+        "id": "4361726f6c796e20576173686275726e",
+        "personType": "moderator",
+        "lastName": "Washburn"
+    },
+    "546f6d204661686579": {
+        "firstName": "Tom",
+        "id": "546f6d204661686579",
+        "personType": "moderator",
+        "lastName": "Fahey"
+    },
+    "4a6f686e204b65727279": {
+        "firstName": "John",
+        "id": "4a6f686e204b65727279",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Kerry"
+    },
+    "4a75647920576f6f6472756666": {
+        "firstName": "Judy",
+        "id": "4a75647920576f6f6472756666",
+        "personType": "moderator",
+        "lastName": "Woodruff"
+    },
+    "4a6f6e2048756e74736d616e": {
+        "firstName": "Jon",
+        "id": "4a6f6e2048756e74736d616e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Huntsman"
+    },
+    "416c205368617270746f6e": {
+        "firstName": "Al",
+        "id": "416c205368617270746f6e",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Sharpton"
+    },
+    "4a65666620477265656e6669656c64": {
+        "firstName": "Jeff",
+        "id": "4a65666620477265656e6669656c64",
+        "personType": "moderator",
+        "lastName": "Greenfield"
+    },
+    "4b65697468204f6c6265726d616e6e": {
+        "firstName": "Keith",
+        "id": "4b65697468204f6c6265726d616e6e",
+        "personType": "moderator",
+        "lastName": "Olbermann"
+    },
+    "4a616b6520546170706572": {
+        "firstName": "Jake",
+        "id": "4a616b6520546170706572",
+        "personType": "moderator",
+        "lastName": "Tapper"
+    },
+    "4c696e647365792047726168616d": {
+        "firstName": "Lindsey",
+        "id": "4c696e647365792047726168616d",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Graham"
+    },
+    "4d696368656c6520426163686d616e6e": {
+        "firstName": "Michele",
+        "id": "4d696368656c6520426163686d616e6e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Bachmann"
+    },
+    "53636f74742050656c6c6579": {
+        "firstName": "Scott",
+        "id": "53636f74742050656c6c6579",
+        "personType": "moderator",
+        "lastName": "Pelley"
+    },
+    "4d6567796e204b656c6c79": {
+        "firstName": "Megyn",
+        "id": "4d6567796e204b656c6c79",
+        "personType": "moderator",
+        "lastName": "Kelly"
+    },
+    "4461766964204d756972": {
+        "firstName": "David",
+        "id": "4461766964204d756972",
+        "personType": "moderator",
+        "lastName": "Muir"
+    },
+    "436875636b20546f6464": {
+        "firstName": "Chuck",
+        "id": "436875636b20546f6464",
+        "personType": "moderator",
+        "lastName": "Todd"
+    },
+    "44617669642059657073656e": {
+        "firstName": "David",
+        "id": "44617669642059657073656e",
+        "personType": "moderator",
+        "lastName": "Yepsen"
+    },
+    "446176696420477265676f7279": {
+        "firstName": "David",
+        "id": "446176696420477265676f7279",
+        "personType": "moderator",
+        "lastName": "Gregory"
+    },
+    "47656f7267652042757368": {
+        "firstName": "George",
+        "id": "47656f7267652042757368",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Bush"
+    },
+    "446f6e616c64205472756d70": {
+        "firstName": "Donald",
+        "id": "446f6e616c64205472756d70",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Trump"
+    },
+    "4a6f7365204469617a2d42616c617274": {
+        "firstName": "Jose",
+        "id": "4a6f7365204469617a2d42616c617274",
+        "personType": "moderator",
+        "lastName": "Diaz-Balart"
+    },
+    "43616d7062656c6c2042726f776e": {
+        "firstName": "Campbell",
+        "id": "43616d7062656c6c2042726f776e",
+        "personType": "moderator",
+        "lastName": "Brown"
+    },
+    "546564204372757a": {
+        "firstName": "Ted",
+        "id": "546564204372757a",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Cruz"
+    },
+    "43616e64792043726f776c6579": {
+        "firstName": "Candy",
+        "id": "43616e64792043726f776c6579",
+        "personType": "moderator",
+        "lastName": "Crowley"
+    },
+    "47656f72676520506174616b69": {
+        "firstName": "George",
+        "id": "47656f72676520506174616b69",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Pataki"
+    },
+    "526f626572742047656f726765": {
+        "firstName": "Robert",
+        "id": "526f626572742047656f726765",
+        "personType": "moderator",
+        "lastName": "George"
+    },
+    "4469616e6520536177796572": {
+        "firstName": "Diane",
+        "id": "4469616e6520536177796572",
+        "personType": "moderator",
+        "lastName": "Sawyer"
+    },
+    "537465766520496e736b656570": {
+        "firstName": "Steve",
+        "id": "537465766520496e736b656570",
+        "personType": "moderator",
+        "lastName": "Inskeep"
+    },
+    "4a616e657420486f6f6b": {
+        "firstName": "Janet",
+        "id": "4a616e657420486f6f6b",
+        "personType": "moderator",
+        "lastName": "Hook"
+    },
+    "546564204b6f7070656c": {
+        "firstName": "Ted",
+        "id": "546564204b6f7070656c",
+        "personType": "moderator",
+        "lastName": "Koppel"
+    },
+    "53616e64726120536d697468": {
+        "firstName": "Sandra",
+        "id": "53616e64726120536d697468",
+        "personType": "moderator",
+        "lastName": "Smith"
+    },
+    "4a756c69616e6120476f6c646d616e": {
+        "firstName": "Juliana",
+        "id": "4a756c69616e6120476f6c646d616e",
+        "personType": "moderator",
+        "lastName": "Goldman"
+    },
+    "526f6e205061756c": {
+        "firstName": "Ron",
+        "id": "526f6e205061756c",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Paul"
+    },
+    "4e6577742047696e6772696368": {
+        "firstName": "Newt",
+        "id": "4e6577742047696e6772696368",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Gingrich"
+    },
+    "42726574204261696572": {
+        "firstName": "Bret",
+        "id": "42726574204261696572",
+        "personType": "moderator",
+        "lastName": "Baier"
+    },
+    "4a696d2047696c6d6f7265": {
+        "firstName": "Jim",
+        "id": "4a696d2047696c6d6f7265",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Gilmore"
+    },
+    "44656e6e69732052796572736f6e": {
+        "firstName": "Dennis",
+        "id": "44656e6e69732052796572736f6e",
+        "personType": "moderator",
+        "lastName": "Ryerson"
+    },
+    "44656e6e6973204b7563696e696368": {
+        "firstName": "Dennis",
+        "id": "44656e6e6973204b7563696e696368",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Kucinich"
+    },
+    "436f6b696520526f6265727473": {
+        "firstName": "Cokie",
+        "id": "436f6b696520526f6265727473",
+        "personType": "moderator",
+        "lastName": "Roberts"
+    },
+    "4265726e6172642053686177": {
+        "firstName": "Bernard",
+        "id": "4265726e6172642053686177",
+        "personType": "moderator",
+        "lastName": "Shaw"
+    },
+    "537573616e2046657272656368696f": {
+        "firstName": "Susan",
+        "id": "537573616e2046657272656368696f",
+        "personType": "moderator",
+        "lastName": "Ferrechio"
+    },
+    "4865726d616e204361696e": {
+        "firstName": "Herman",
+        "id": "4865726d616e204361696e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Cain"
+    },
+    "5269636b2053616e746f72756d": {
+        "firstName": "Rick",
+        "id": "5269636b2053616e746f72756d",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Santorum"
+    },
+    "4b6172656e2042726f776e": {
+        "firstName": "Karen",
+        "id": "4b6172656e2042726f776e",
+        "personType": "moderator",
+        "lastName": "Brown"
+    },
+    "4765726172642042616b6572": {
+        "firstName": "Gerard",
+        "id": "4765726172642042616b6572",
+        "personType": "moderator",
+        "lastName": "Baker"
+    },
+    "446f6e204c656d6f6e": {
+        "firstName": "Don",
+        "id": "446f6e204c656d6f6e",
+        "personType": "moderator",
+        "lastName": "Lemon"
+    },
+    "4a6f686e20486172776f6f64": {
+        "firstName": "John",
+        "id": "4a6f686e20486172776f6f64",
+        "personType": "moderator",
+        "lastName": "Harwood"
+    },
+    "44616e612042617368": {
+        "firstName": "Dana",
+        "id": "44616e612042617368",
+        "personType": "moderator",
+        "lastName": "Bash"
+    },
+    "4d617274696e204f274d616c6c6579": {
+        "firstName": "Martin",
+        "id": "4d617274696e204f274d616c6c6579",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "O'Malley"
+    },
+    "4572726f6c204c6f756973": {
+        "firstName": "Errol",
+        "id": "4572726f6c204c6f756973",
+        "personType": "moderator",
+        "lastName": "Louis"
+    },
+    "4a65616e6e652043756d6d696e6773": {
+        "firstName": "Jeanne",
+        "id": "4a65616e6e652043756d6d696e6773",
+        "personType": "moderator",
+        "lastName": "Cummings"
+    },
+    "4d6172746861204d616343616c6c756d": {
+        "firstName": "Martha",
+        "id": "4d6172746861204d616343616c6c756d",
+        "personType": "moderator",
+        "lastName": "MacCallum"
+    },
+    "42656e20436172736f6e": {
+        "firstName": "Ben",
+        "id": "42656e20436172736f6e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Carson"
+    },
+    "57656e64656c6c20476f6c6572": {
+        "firstName": "Wendell",
+        "id": "57656e64656c6c20476f6c6572",
+        "personType": "moderator",
+        "lastName": "Goler"
+    },
+    "426f626279204a696e64616c": {
+        "firstName": "Bobby",
+        "id": "426f626279204a696e64616c",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Jindal"
+    },
+    "4b6172656e2054756d756c7479": {
+        "firstName": "Karen",
+        "id": "4b6172656e2054756d756c7479",
+        "personType": "moderator",
+        "lastName": "Tumulty"
+    },
+    "53616d2042726f776e6261636b": {
+        "firstName": "Sam",
+        "id": "53616d2042726f776e6261636b",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Brownback"
+    },
+    "4a6f65204a6f686e73": {
+        "firstName": "Joe",
+        "id": "4a6f65204a6f686e73",
+        "personType": "moderator",
+        "lastName": "Johns"
+    },
+    "4a6f686e204d634361696e": {
+        "firstName": "John",
+        "id": "4a6f686e204d634361696e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "McCain"
+    },
+    "53757a616e6e65204d616c7665617578": {
+        "firstName": "Suzanne",
+        "id": "53757a616e6e65204d616c7665617578",
+        "personType": "moderator",
+        "lastName": "Malveaux"
+    },
+    "4777656e204966696c6c": {
+        "firstName": "Gwen",
+        "id": "4777656e204966696c6c",
+        "personType": "moderator",
+        "lastName": "Ifill"
+    },
+    "4368726973746f7068657220446f6464": {
+        "firstName": "Christopher",
+        "id": "4368726973746f7068657220446f6464",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Dodd"
+    },
+    "4a6f6520426964656e": {
+        "firstName": "Joe",
+        "id": "4a6f6520426964656e",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Biden"
+    },
+    "4a696d2057656262": {
+        "firstName": "Jim",
+        "id": "4a696d2057656262",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Webb"
+    },
+    "546f6d6d792054686f6d70736f6e": {
+        "firstName": "Tommy",
+        "id": "546f6d6d792054686f6d70736f6e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Thompson"
+    },
+    "486f77617264204465616e": {
+        "firstName": "Howard",
+        "id": "486f77617264204465616e",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Dean"
+    },
+    "4e65696c2043617675746f": {
+        "firstName": "Neil",
+        "id": "4e65696c2043617675746f",
+        "personType": "moderator",
+        "lastName": "Cavuto"
+    },
+    "44756e63616e2048756e746572": {
+        "firstName": "Duncan",
+        "id": "44756e63616e2048756e746572",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Hunter"
+    },
+    "4d617269612053616c696e6173": {
+        "firstName": "Maria",
+        "id": "4d617269612053616c696e6173",
+        "personType": "moderator",
+        "lastName": "Salinas"
+    },
+    "5374657665204b696e67": {
+        "firstName": "Steve",
+        "id": "5374657665204b696e67",
+        "personType": "moderator",
+        "lastName": "King"
+    },
+    "4d6172746861205261646461747a": {
+        "firstName": "Martha",
+        "id": "4d6172746861205261646461747a",
+        "personType": "moderator",
+        "lastName": "Raddatz"
+    },
+    "5374657068656e2044696e616e": {
+        "firstName": "Stephen",
+        "id": "5374657068656e2044696e616e",
+        "personType": "moderator",
+        "lastName": "Dinan"
+    },
+    "547269736820526567616e": {
+        "firstName": "Trish",
+        "id": "547269736820526567616e",
+        "personType": "moderator",
+        "lastName": "Regan"
+    },
+    "537465766520466f72626573": {
+        "firstName": "Steve",
+        "id": "537465766520466f72626573",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Forbes"
+    },
+    "4368726973204d61747468657773": {
+        "firstName": "Chris",
+        "id": "4368726973204d61747468657773",
+        "personType": "moderator",
+        "lastName": "Matthews"
+    },
+    "476c6f72696120426f72676572": {
+        "firstName": "Gloria",
+        "id": "476c6f72696120426f72676572",
+        "personType": "moderator",
+        "lastName": "Borger"
+    },
+    "436861726c696520526f7365": {
+        "firstName": "Charlie",
+        "id": "436861726c696520526f7365",
+        "personType": "moderator",
+        "lastName": "Rose"
+    },
+    "42696c6c2048656d6d6572": {
+        "firstName": "Bill",
+        "id": "42696c6c2048656d6d6572",
+        "personType": "moderator",
+        "lastName": "Hemmer"
+    },
+    "4265636b7920517569636b": {
+        "firstName": "Becky",
+        "id": "4265636b7920517569636b",
+        "personType": "moderator",
+        "lastName": "Quick"
+    },
+    "4a6f7368204d63456c7665656e": {
+        "firstName": "Josh",
+        "id": "4a6f7368204d63456c7665656e",
+        "personType": "moderator",
+        "lastName": "McElveen"
+    },
+    "4d617269612041727261726173": {
+        "firstName": "Maria",
+        "id": "4d617269612041727261726173",
+        "personType": "moderator",
+        "lastName": "Arraras"
+    },
+    "5269636b20416c62696e": {
+        "firstName": "Rick",
+        "id": "5269636b20416c62696e",
+        "personType": "moderator",
+        "lastName": "Albin"
+    },
+    "54696d205061776c656e7479": {
+        "firstName": "Tim",
+        "id": "54696d205061776c656e7479",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Pawlenty"
+    },
+    "546f6d2042726f6b6177": {
+        "firstName": "Tom",
+        "id": "546f6d2042726f6b6177",
+        "personType": "moderator",
+        "lastName": "Brokaw"
+    },
+    "4d6172636f20527562696f": {
+        "firstName": "Marco",
+        "id": "4d6172636f20527562696f",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Rubio"
+    },
+    "4d616a6f722047617272657474": {
+        "firstName": "Major",
+        "id": "4d616a6f722047617272657474",
+        "personType": "moderator",
+        "lastName": "Garrett"
+    },
+    "4f7272696e204861746368": {
+        "firstName": "Orrin",
+        "id": "4f7272696e204861746368",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Hatch"
+    },
+    "427269616e2057696c6c69616d73": {
+        "firstName": "Brian",
+        "id": "427269616e2057696c6c69616d73",
+        "personType": "moderator",
+        "lastName": "Williams"
+    },
+    "4c657374657220486f6c74": {
+        "firstName": "Lester",
+        "id": "4c657374657220486f6c74",
+        "personType": "moderator",
+        "lastName": "Holt"
+    },
+    "4b6576696e20436f6f6e6579": {
+        "firstName": "Kevin",
+        "id": "4b6576696e20436f6f6e6579",
+        "personType": "moderator",
+        "lastName": "Cooney"
+    },
+    "4b696d6265726c7920537472617373656c": {
+        "firstName": "Kimberly",
+        "id": "4b696d6265726c7920537472617373656c",
+        "personType": "moderator",
+        "lastName": "Strassel"
+    },
+    "52616368656c204d6164646f77": {
+        "firstName": "Rachel",
+        "id": "52616368656c204d6164646f77",
+        "personType": "moderator",
+        "lastName": "Maddow"
+    },
+    "546f6d204772696666697468": {
+        "firstName": "Tom",
+        "id": "546f6d204772696666697468",
+        "personType": "moderator",
+        "lastName": "Griffith"
+    },
+    "416e64726561204d69746368656c6c": {
+        "firstName": "Andrea",
+        "id": "416e64726561204d69746368656c6c",
+        "personType": "moderator",
+        "lastName": "Mitchell"
+    },
+    "4a6f686e20486172726973": {
+        "firstName": "John",
+        "id": "4a6f686e20486172726973",
+        "personType": "moderator",
+        "lastName": "Harris"
+    },
+    "4a6f686e204b6173696368": {
+        "firstName": "John",
+        "id": "4a6f686e204b6173696368",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Kasich"
+    },
+    "4a6f686e204469636b6572736f6e": {
+        "firstName": "John",
+        "id": "4a6f686e204469636b6572736f6e",
+        "personType": "moderator",
+        "lastName": "Dickerson"
+    },
+    "4279726f6e20596f726b": {
+        "firstName": "Byron",
+        "id": "4279726f6e20596f726b",
+        "personType": "moderator",
+        "lastName": "York"
+    },
+    "4d696368656c65204e6f72726973": {
+        "firstName": "Michele",
+        "id": "4d696368656c65204e6f72726973",
+        "personType": "moderator",
+        "lastName": "Norris"
+    },
+    "4a75616e204c6f70657a": {
+        "firstName": "Juan",
+        "id": "4a75616e204c6f70657a",
+        "personType": "moderator",
+        "lastName": "Lopez"
+    },
+    "5269636b205065727279": {
+        "firstName": "Rick",
+        "id": "5269636b205065727279",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Perry"
+    },
+    "4e6174616c6965204d6f72616c6573": {
+        "firstName": "Natalie",
+        "id": "4e6174616c6965204d6f72616c6573",
+        "personType": "moderator",
+        "lastName": "Morales"
+    },
+    "54696d2052757373657274": {
+        "firstName": "Tim",
+        "id": "54696d2052757373657274",
+        "personType": "moderator",
+        "lastName": "Russert"
+    },
+    "53636f74742053707261646c696e67": {
+        "firstName": "Scott",
+        "id": "53636f74742053707261646c696e67",
+        "personType": "moderator",
+        "lastName": "Spradling"
+    },
+    "4a6f686e204b696e67": {
+        "firstName": "John",
+        "id": "4a6f686e204b696e67",
+        "personType": "moderator",
+        "lastName": "King"
+    },
+    "4361726c205175696e74616e696c6c61": {
+        "firstName": "Carl",
+        "id": "4361726c205175696e74616e696c6c61",
+        "personType": "moderator",
+        "lastName": "Quintanilla"
+    },
+    "52616e64205061756c": {
+        "firstName": "Rand",
+        "id": "52616e64205061756c",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Paul"
+    },
+    "4361726c792046696f72696e61": {
+        "firstName": "Carly",
+        "id": "4361726c792046696f72696e61",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Fiorina"
+    },
+    "4a6f7267652052616d6f73": {
+        "firstName": "Jorge",
+        "id": "4a6f7267652052616d6f73",
+        "personType": "moderator",
+        "lastName": "Ramos"
+    },
+    "536f6c65646164204f27427269656e": {
+        "firstName": "Soledad",
+        "id": "536f6c65646164204f27427269656e",
+        "personType": "moderator",
+        "lastName": "O'Brien"
+    },
+    "546176697320536d696c6579": {
+        "firstName": "Tavis",
+        "id": "546176697320536d696c6579",
+        "personType": "moderator",
+        "lastName": "Smiley"
+    },
+    "47617279204261756572": {
+        "firstName": "Gary",
+        "id": "47617279204261756572",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Bauer"
+    },
+    "436861726c696520476962736f6e": {
+        "firstName": "Charlie",
+        "id": "436861726c696520476962736f6e",
+        "personType": "moderator",
+        "lastName": "Gibson"
+    },
+    "42696c6c20427261646c6579": {
+        "firstName": "Bill",
+        "id": "42696c6c20427261646c6579",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Bradley"
+    },
+    "4c696e636f6c6e20436861666565": {
+        "firstName": "Lincoln",
+        "id": "4c696e636f6c6e20436861666565",
+        "party": "D",
+        "personType": "candidate",
+        "lastName": "Chafee"
+    },
+    "47617279204a6f686e736f6e": {
+        "firstName": "Gary",
+        "id": "47617279204a6f686e736f6e",
+        "party": "R",
+        "personType": "candidate",
+        "lastName": "Johnson"
+    },
+    "476572616c642053656962": {
+        "firstName": "Gerald",
+        "id": "476572616c642053656962",
+        "personType": "moderator",
+        "lastName": "Seib"
+    },
+    "5065746572204a656e6e696e6773": {
+        "firstName": "Peter",
+        "id": "5065746572204a656e6e696e6773",
+        "personType": "moderator",
+        "lastName": "Jennings"
+    }
+}

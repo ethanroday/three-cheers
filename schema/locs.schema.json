@@ -1,0 +1,102 @@
+{
+	"$schema": "http://json-schema.org/schema#",
+	"title": "Debate data locations and associated schemas",
+	"description": "This schema should be used to enforce the validity of a \"data metadata\" file that describes the locations and associated schemas of various kinds of data.",
+
+	"definitions": {
+		"dataSource": {
+			"description": "Holds the directory information and (if applicable) location of the schema for this kind of data file.",
+			"properties": {
+				"dir": {
+					"description": "The directory where the data is stored, relative to a top-level data directory.",
+					"type": "string"
+				},
+				"dataType": {
+					"description": "The kind of data stored in this directory (i.e. what entities the ids in this directory refer to).",
+					"type": "string",
+					"enum": ["debates", "people"]
+				},
+				"single": {
+					"description": "Describes the type of directory. If true, the directory contains one file that is the same as the directory name. If false, the directory contains multiple files, whose names should generally match that of the id property of the contained data."
+				},
+				"isJson": {
+					"description": "A boolean indicating whether files in the directory are JSON files or not.",
+					"type": "boolean"
+				},
+				"schema": {
+					"description": "The file containing the schema that files in this directory should obey, relative to a top-level schema directory.",
+					"type": "string"
+				},
+				"hasIds": {
+					"description": "A special attribute indicating that this data source is guaranteed to contain all of the ids for the entities of this type.",
+					"type": "boolean",
+					"enum": [true]
+				}
+			},
+			"required": ["dir","single","isJson"],
+			"oneOf" : [
+				{
+					"properties": {	
+						"isJson": {"enum": [false]},
+						"single": {"enum": [false]}
+					}
+				},
+				{
+					"required": ["schema"]
+				}
+			]
+		}
+	},
+
+	"properties": {
+		"dataSources": {
+			"properties": {
+				"transcriptsRaw": {
+					"title": "Raw transcripts",
+					"description": "The directory which stores the raw transcripts, scraped directly from the UCSB url.",
+					"$ref": "#/definitions/dataSource"
+				},
+				"transcripts": {
+					"title": "Parsed transcripts",
+					"description": "The directory which stores the transcripts parsed into a sequence of events and utterances.",
+					"$ref": "#/definitions/dataSource"
+				},
+				"debateMetadata": {
+					"title": "Primary debate metadata",
+					"description": "The directory which stores the primary metadata for the debates, including date, participants, etc.",
+					"$ref": "#/definitions/dataSource"
+				},
+				"peopleMetadata": {
+					"title": "People metadata",
+					"description": "The directory which stores information about the participants in the debates, including candidates and moderators.",
+					"$ref": "#/definitions/dataSource"
+				},
+				"parsingMetadata": {
+					"title": "Debate parsing metadata",
+					"description": "The directory which stores metadata specifying which functions and regexes to use for parsing raw debate transcripts.",
+					"$ref": "#/definitions/dataSource"
+				},
+				"malletLdaInput": {
+					"title": "MALLET LDA input format",
+					"description": "The directory which stores the text of each transcript with one transcript per file.",
+					"$ref": "#/definitions/dataSource"
+				}
+			},
+			"required": ["transcriptsRaw", "transcripts", "debateMetadata", "peopleMetadata", "parsingMetadata", "malletLdaInput"],
+			"additionalProperties": false
+		},
+		"dataDir": {
+			"description": "The path to the top-level data directory relative to the project root.",
+			"type": "string"
+		},
+		"schemaDir": {
+			"description": "The path to the top-level schema directory relative to the project root.",
+			"type": "string"
+		},
+		"schema": {
+			"description": "A reference to this schema file relative to the top-level schema directory."
+		}
+	},
+	"required": ["dataSources", "dataDir", "schemaDir"],
+	"additionalProperties": false
+}
