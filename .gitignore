@@ -1,2 +1,4 @@
 data/debates/rawTranscripts/*
 data/debates/parsedTranscripts/*
+
+src/__pycache__
