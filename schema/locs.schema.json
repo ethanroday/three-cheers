@@ -76,13 +76,13 @@
 					"description": "The directory which stores metadata specifying which functions and regexes to use for parsing raw debate transcripts.",
 					"$ref": "#/definitions/dataSource"
 				},
-				"malletLdaInput": {
-					"title": "MALLET LDA input format",
-					"description": "The directory which stores the text of each transcript with one transcript per file.",
+				"transcriptHeaders": {
+					"title": "Transcript header indices",
+					"description": "The directory which stores the manually identified header indices for each debate.",
 					"$ref": "#/definitions/dataSource"
 				}
 			},
-			"required": ["transcriptsRaw", "transcripts", "debateMetadata", "peopleMetadata", "parsingMetadata", "malletLdaInput"],
+			"required": ["transcriptsRaw", "transcripts", "debateMetadata", "peopleMetadata", "parsingMetadata", "transcriptHeaders"],
 			"additionalProperties": false
 		},
 		"dataDir": {

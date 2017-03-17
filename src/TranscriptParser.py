@@ -5,7 +5,7 @@ utterance and non-utterance events.
 '''
 
 import re
-from itertools import chain, filterfalse
+from itertools import chain
 
 from bs4 import BeautifulSoup, NavigableString
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -370,15 +370,14 @@ if __name__ == '__main__':
             return ''.join([event['eventType'], ': ', '\'', event['text'], '\''])
 
     for debate in data.debates:
-        if debate.get('id') != '96660':
-            print("Parsing debate with id {0}...".format(debate.get('id')), end="")
-            try:
-                filename = "../data/debates/parsedTranscripts/{0}.json".format(debate.get('id'))
-                utils.writeJSON({
-                    'id': debate.get('id'),
-                    'events':list(TranscriptParser(debate).parse())
-                }, filename)
-                print("Done!")
-            except Exception as err:
-                print("Error while parsing debate with id {0}".format(debate.get('id')))
-                raise err
+        print("Parsing debate with id {0}...".format(debate.get('id')), end="")
+        try:
+            filename = "../data/debates/parsedTranscripts/{0}.json".format(debate.get('id'))
+            utils.writeJSON({
+                'id': debate.get('id'),
+                'events':list(TranscriptParser(debate).parse())
+            }, filename)
+            print("Done!")
+        except Exception as err:
+            print("Error while parsing debate with id {0}".format(debate.get('id')))
+            raise err

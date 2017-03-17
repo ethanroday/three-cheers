@@ -1,0 +1,17 @@
+{
+	"$schema": "http://json-schema.org/schema#",
+	"title": "Parsed transcript header indices",
+	"description": "This schema validates a list of manually identified header indices for a parsed transcript.",
+
+	"type": "object",
+	"properties": {
+		"id": {
+			"description": "The unique identifier for this debate.",
+			"type": "string"
+		},
+		"indexAfterIntro": {
+			"description": "The index of the first event after the moderator's introductions. Generally the start of the first question.",
+			"type": "number"
+		}
+	}
+}

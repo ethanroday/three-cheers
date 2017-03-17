@@ -36,11 +36,11 @@
 			"isJson": true,
 			"schema": "dataSources/debateParsingMetadata.schema.json"
 		},
-		"malletLdaInput": {
-			"dir": "debates/malletLdaInput",
+		"transcriptHeaders": {
+			"dir": "debates/transcriptHeaders",
 			"dataType": "debates",
 			"single": true,
-			"isJson": false
+			"isJson": true
 		}
 	},
 	"dataDir": "data/",

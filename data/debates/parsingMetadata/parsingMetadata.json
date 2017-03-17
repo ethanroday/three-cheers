@@ -1,4 +1,10 @@
 {
+    "96660": {
+        "eventDetector": 1,
+        "utteranceIterator": 26,
+        "speakerIdentifier": 2,
+        "speakerDetector": 0
+    },
     "110903": {
         "eventDetector": 1,
         "utteranceIterator": 1,

@@ -9,10 +9,6 @@
 			"description": "The unique identifier for this debate.",
 			"type": "string"
 		},
-		"indexAfterIntro": {
-			"description": "The index of the first event after the moderator's introductions. Generally the start of the first question.",
-			"type": "number"
-		},
 		"events": {
 			"type": "array",
 			"description": "The sequence of events (utterances and non-utterances) in a debate.",
