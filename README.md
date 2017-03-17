@@ -6,7 +6,7 @@ To fetch and parse the debates, run the following *from the `src/` directory*:
     python TranscriptFetcher.py
     python TranscriptParser.py
     
-The parsed transcripts will be output `data/debates/parsedTranscripts`).
+The parsed transcripts will be output `data/debates/parsedTranscripts`.
 
 ## References
 [1] Roday, Ethan. _Three Cheers For Partisanship: Lexical Framing and Applause in U.S. Presidential Primary Debates_. Master's thesis, University of Washington, 2017.
