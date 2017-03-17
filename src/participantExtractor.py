@@ -1,6 +1,5 @@
 from ThesisDataAccessor import Accessor as data
 import re
-import pandas
 import binascii
 import utils
 from datetime import datetime
